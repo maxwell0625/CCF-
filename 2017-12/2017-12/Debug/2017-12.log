@@ -1,0 +1,4 @@
+﻿D:\vs2017\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(2017-12.vcxproj, 2017.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  2016_12_中间数.c
+f:\c编程\csp\2017-12\2017-12\2016_12_中间数.c(55): warning C4013: “system”未定义；假设外部返回 int
+  2017-12.vcxproj -> F:\C编程\csp\2017-12\Debug\历年第一题.exe
